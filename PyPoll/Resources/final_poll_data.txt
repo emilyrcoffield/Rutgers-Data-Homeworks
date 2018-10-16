@@ -1,0 +1,5 @@
+Poll
+----------------------------
+Total number of votes in the data set: 3521001
+O'Tooley: 3.0% (105630)
+Winner: Khan
